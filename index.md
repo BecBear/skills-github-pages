@@ -1,4 +1,6 @@
----
-title: Welcome to my blog
----
+---BecBear---
+
+Welcome to my blog
+
+---homepage---
 
